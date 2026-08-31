@@ -1,0 +1,9 @@
+# virtualenv
+.venv/
+
+# EMBER dataset + sampling caches (multi-GB; see README for download instructions)
+data/
+
+# jupyter / python
+.ipynb_checkpoints/
+__pycache__/
